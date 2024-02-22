@@ -1,0 +1,10 @@
+*{
+padding:0;
+margin:0;
+}
+h1{
+background-color:gold;
+padding:30;
+text-transform:uppercase;
+font-size:30px;
+}
